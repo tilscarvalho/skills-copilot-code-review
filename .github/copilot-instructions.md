@@ -4,7 +4,7 @@
 - Procure riscos que possam expor dados de usuários.
 - Prefira carregar configurações e conteúdos do banco de dados ao invés de valores fixos no código. Se for absolutamente necessário, use variáveis de ambiente ou arquivos de configuração não versionados.
 
-## Qualidade do Código
+## Qualidade do Código 
 
 - Use convenções de nomenclatura consistentes.
 - Tente reduzir duplicação de código.
